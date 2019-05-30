@@ -1,0 +1,23 @@
+[[introduction]]
+## Introduction
+
+According to the magicians of Glantr, who have studied the structure of the universe for centuries,
+there is not one world, but an infinity, all very different from each other. Firmellan, the world where
+they live, is only one of them even if it takes a particular importance since it is their world.
+
+According to these same magicians, all these worlds bathe in an inconsistent sea which one names the
+Chaos. There, in this "nowhere” between the universes, no rule exists, no law can apply.
+
+Firmellan is a world that exists, according to the oldest legends, for a little more than ten thousand
+years. It is said that it was created by the Gods or that the Gods came from another universe to settle
+there; in any case, they contributed to create the flora and fauna that make Firmellan unique among
+all the universes.
+ 
+This document will describe what everyone knows about Firmellan. After giving a brief overview
+of the history of the world as well as a general description of the Firmellan world, one will
+detail one by one all the regions and regions of the vast universe.
+ 
+Many points are deliberately left in the shadows because the truth is known only to the gods themselves.
+These "mysteries of Firmellan" will be unveiled, one by one, in other supplements.
+
+include::introduction-history.adoc[]
