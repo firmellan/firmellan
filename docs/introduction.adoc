@@ -12,3 +12,5 @@ This document will describe what everyone knows about Firmellan. After giving a 
 Many points are deliberately left in the shadows because the truth is known only to the gods themselves. These "mysteries of Firmellan" will be unveiled, one by one, in other supplements.
 
 include::introduction-history.adoc[]
+
+include::introduction-peoples.adoc[]
