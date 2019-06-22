@@ -6,3 +6,5 @@ On Firmellan, scholars and cartographers are accustomed to designate under the n
 include::belgaroth.adoc[]
 
 include::cerkolan.adoc[]
+
+include::chargos.adoc[]
