@@ -4,3 +4,5 @@
 On Firmellan, scholars and cartographers are accustomed to designate under the name of “Known World” all the civilized lands that extend from the Great Western Ocean to the <<great-sea-of-trees,Great Sea of Trees>>. We also add these two countries of the end of the world that are Sandokor and the empire of <<kotei,Kotei>>. North of <<origin,Origon>> and the <<chargos,Countries of Chargos>>, it is the Icy North, which is distinct from the “known world” and which is nevertheless part of the same continent.
 
 include::belgaroth.adoc[]
+
+include::cerkolan.adoc[]
